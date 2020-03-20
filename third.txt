@@ -1,0 +1,2 @@
+本地仓库同步到远程仓库git push
+拉取线上仓库gitpull
